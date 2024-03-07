@@ -8,7 +8,7 @@ El repositorio incluye:
 3. Mapa con todos los paralelos en JSON
 4. Script de web scraping de la web de biblia paralela que descarga todos los paralelos
 
-Modificando el script se puede crear una estructura diferente a la diseñada. 
+Modificando los scripts se pueden crear estructuras diferentes a la diseñada. 
 
 ## Cómo usar
 Este repositorio ya incluye los dos archivos JSON necesarios, pero si se desea descargar se pueden utilizar los script de python. Los pasos a seguir para generar los JSON son:
@@ -21,7 +21,7 @@ python scraper_biblia.py
 ```
 python scraper_paralelos.py
 ```
-4. El archivo 
+4. El archivo 'paralelos.json' se habrá rellenado con la información de los paralelos para cada versículo
 
 ## Contacto
 Para cualquier duda o contacto escribir a micanlo.dev@gmail.com
